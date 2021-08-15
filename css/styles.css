@@ -41,6 +41,16 @@ hr{
     font-weight: bold;
 }
 
+i.fas.fa-star{
+    color: orange;
+}
+i.far.fa-star {
+    color: orange;
+}
+.accordion-button.active:focus {
+    background-color: white;
+}
+
 
 
 
